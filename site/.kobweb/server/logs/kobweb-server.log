@@ -1,0 +1,7 @@
+2024-03-03 16:14:32.221 [main] DEBUG ktor.application - Java Home: /Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents
+2024-03-03 16:14:32.222 [main] DEBUG ktor.application - Class Loader: jdk.internal.loader.ClassLoaders$AppClassLoader@5b37e0d2: [file:/Users/kompas2022/Projects/BelajarKotlin/kobweb/PersonalWebsiteJetpackCompose/site/.kobweb/server/server.jar!/ch]
+2024-03-03 16:14:32.232 [main] WARN  ktor.application - API jar specified but does not exist! Please fix conf.yaml. Invalid path: "build/libs/personalwebsite.jar"
+2024-03-03 16:14:32.257 [main] INFO  ktor.application - Application started in 0.065 seconds.
+2024-03-03 16:14:32.325 [main] INFO  ktor.application - Responding at http://0.0.0.0:8080
+2024-03-03 16:14:48.133 [kotlinx.coroutines.DefaultExecutor] INFO  ktor.application - Kobweb server shutting down...
+2024-03-03 16:14:50.224 [kotlinx.coroutines.DefaultExecutor] INFO  ktor.application - Server finished shutting down.
